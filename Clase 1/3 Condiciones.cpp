@@ -25,11 +25,10 @@ int main(){
     if(Condicion)
     {
       Cuerpo de codigo
-      cout << "Hola" << endl; 
     }
 
     else if(Condicion){
-|     Cuerpo codigo
+      Cuerpo codigo
     }
 
     else{
@@ -38,7 +37,7 @@ int main(){
 
   */
 
- //Caso 1
+ //
 
   int a = 10, b = 10;
 
