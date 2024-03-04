@@ -26,4 +26,5 @@ int main()
   //Una ultima forma no muy utilizada, debido a que es de C
 
   printf("Hola mundo \n");
+
 }
